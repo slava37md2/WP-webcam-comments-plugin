@@ -1,5 +1,5 @@
 # WP-webcam-comments-plugin
-With our plugin you can add video comments from webcam right on the site.
+With our plugin you can add video comments from webcam right on the Wordpress site.
 Now you can not only read comments but you can see also who and how speaks.
 
 Flash is not used.
