@@ -13,3 +13,5 @@ The comand for cron:
 Instead of “your_name” write your login in hosting. Instead of “wp” write the folder with wordpress script.
 
 Attention: 30 sec mp4-file have a size 4MB.
+
+Demo is <a href="https://wikimoldia.org/wp/2019/03/23/wordpress-plagin-golosovaniya-za-kommentarii/">here</a>
